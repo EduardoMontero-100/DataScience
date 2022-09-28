@@ -4,7 +4,7 @@ Estructura de carpetas del repositorio.
 El repositorio está mas enfocado en ajustar los scripts y notebooks que se encuentran
 en la carpeta coursera
 
-´´´
+```
 .
 ├── coderhouse
 │   ├── contenido
@@ -164,4 +164,4 @@ en la carpeta coursera
 │   ├── test.png
 │   └── test.py
 └── README.md
-´´´
+```
